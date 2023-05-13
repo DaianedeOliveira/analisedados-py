@@ -4,4 +4,6 @@
 * Fazer uma média de valores da fabricante Brastemp
 
  ## 📊 Visualização Gráfica
-* Fazer um gráfico de barras e de scatter para visualizar os dados para os produtos de segmento doméstico e corporativo
+* Fazer um gráfico de barras para mostrar o valor de vendas por fabricante
+* Gráfico de Scatter para analisar a % de comissão por vendendor identificado com seu id
+* Gráfico de barras para analisar o valor de vendas e custos por estado
